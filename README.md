@@ -64,4 +64,5 @@ flowchart LR
 ### 🌱 Right now
 
 - 2nd year of Bc. *Programming and Application Development* at FI MUNI
+- 4th year of using Manjaro btw 
 - Other hobbies: fitness, cycling, martial arts, bouldering 🚴
